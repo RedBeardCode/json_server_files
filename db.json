@@ -1,3 +1,5 @@
 {
-   "temperature": 20.0
+   "get": {
+      "temperature": 20.0
+   }
 }
