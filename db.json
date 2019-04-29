@@ -1,5 +1,10 @@
 {
    "get": {
       "temperature": 20.3
+   },
+   "rgb": {
+      "red": 255,
+      "green": 0,
+      "blue": 128,
    }
 }
